@@ -7,13 +7,6 @@ You have landed on Somya's GIT!!!!!
 🔧 Robotics Engineer | AI Researcher | Embedded Systems Enthusiast  
 🌍 Currently in Aachen, Germany 
 
-
-
-
-# 💫 About Me:
-🔭 I’m currently a stressed out final year engineering student.<br>💬 Ask me about ANYTHING! (If I don't know about it, I'll just google/ChatGPT it and save you the trouble :D)<br>📫 How to reach me: Pull a request here!<br>😄 Pronouns: She/Her<br>⚡ Fun fact: There are times coffee makes me sleepy. :(
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/somya-patnaik-326522164) 
 
