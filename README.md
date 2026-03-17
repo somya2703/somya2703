@@ -7,7 +7,7 @@ You have landed on Somya's GIT!!!!!
 🔧 Robotics Engineer | AI Researcher | Embedded Systems Enthusiast  
 🌍 Currently in Aachen, Germany 
 
-### 🌐 Socials:
+#### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somya-patnaik-326522164/)
-
+📄 [View My Tech Stack Mapping](./Portfolio_somya_patnaik.pdf)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
