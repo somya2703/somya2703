@@ -3,7 +3,7 @@
 
 **somya2703/somya2703** 
 You have landed on Somya's GIT!!!!!
-🎓 Master's Student in Robotics Systems Engineering @ [RWTH Aachen] 
+🎓 Master's Student in Robotic Systems Engineering @ [RWTH Aachen] 
 🔧 Robotics Engineer | AI Researcher | Embedded Systems Enthusiast  
 🌍 Currently in Aachen, Germany 
 
